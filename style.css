@@ -1,0 +1,20 @@
+body{
+    background-color: goldenrod;
+    font-family: 'Oswald', sans-serif;
+}
+.footer{
+    text-align: center;
+    bottom:0;
+    background-color:lightsalmon ;
+}
+
+.header_div{
+    background-color:lightsalmon;
+    top:0;
+}
+#start{
+margin-top:20px;
+width: 60px;
+font-weight: 400;
+}
+
